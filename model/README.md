@@ -1,1 +1,2 @@
 
+[model trained on full frame images from the first 5 classes](https://www.floydhub.com/aprilteng/projects/indoor_gps/30/output)
