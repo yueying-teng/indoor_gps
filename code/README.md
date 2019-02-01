@@ -68,3 +68,10 @@ def AttentionResNetCifar10(shape=(32, 32, 3), n_channels=32, n_classes=76):
     
     return model
 ```
+
+##### references
+
+[model](https://github.com/tengshaofeng/ResidualAttentionNetwork-pytorch/blob/master/Residual-Attention-Network/model/residual_attention_network.py)
+
+[blocks](https://github.com/qubvel/residual_attention_network/blob/master/models/blocks.py)
+
